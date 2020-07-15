@@ -12,7 +12,6 @@ function setup() {
     currentPos[1].push(1);
     currentPos[2].push(1);
   }
-  console.log(currentPos[0]);
 }
 
 function windowResized() {
